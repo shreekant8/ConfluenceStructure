@@ -1,0 +1,16 @@
+nav {
+    background-color: #f0f0f0; /* Adjust background color */
+    padding: 10px;
+  }
+  
+  nav a {
+    color: #333; /* Adjust text color */
+    text-decoration: none; /* Remove default underline */
+    padding: 10px;
+    margin-right: 15px;
+  }
+  
+  nav a:hover { /* Style on hover */
+    background-color: #ddd; /* Adjust hover background color */
+  }
+  
